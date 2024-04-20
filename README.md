@@ -13,7 +13,7 @@
 ``` xml
 
 <dependency>
-    <groupId>dev.jack.utilities</groupId>
+    <groupId>com.github.Jacktt20</groupId>
     <artifactId>Utilities</artifactId>
     <version>1.0.0</version>
 </dependency>
